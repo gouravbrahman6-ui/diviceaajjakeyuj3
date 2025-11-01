@@ -15,9 +15,9 @@
     },
     {
         "device_id": "09aa750685191d69",
-        "username": "aditya12",
-        "password": "pass1234",
-        "expirydate": "1-11-2025",
+        "username": "aditya123",
+        "password": "pass12345",
+        "expirydate": "1-11-2026",
         "Allowoffline": false
     }
 ]
