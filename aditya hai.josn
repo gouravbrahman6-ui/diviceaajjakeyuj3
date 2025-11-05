@@ -18,7 +18,7 @@
         "username": "aditya",
         "password": "aditya",
         "expirydate": "1-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "c645feac06a1df40",
