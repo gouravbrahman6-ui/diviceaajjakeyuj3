@@ -7,9 +7,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
+        "device_id": "c6f8687e04193de9",
+        "username": "1",
+        "password": "1",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
@@ -84,7 +84,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "c6f8687e04193de9",
+        "device_id": "c6f687e04193de9",
         "username": "1234",
         "password": "1234",
         "expirydate": "31-12-2025",
