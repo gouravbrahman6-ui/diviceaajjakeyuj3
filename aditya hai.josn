@@ -43,8 +43,8 @@
     },
         {
         "device_id": "22edb789b9f13be1",
-        "username": "name",
-        "password": "name",
+        "username": "name1",
+        "password": "name1",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
